@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/felixzhu/todo-app-frontend.git
+   git clone https://github.com/felixzhu47/todo-app-frontend.git
    cd todo-app
 
 2. **Install Dependencies**
